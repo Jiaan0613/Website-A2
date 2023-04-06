@@ -1,0 +1,39 @@
+div #Fashion{
+    animation: fadeIn 3s ease-in-out 0.5s 1 normal none;
+}
+html{
+    background-image: url(Image/333.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+#last{
+    clear: both;
+    text-align: center;
+}
+#cut {
+	z-index: 3;
+	position: fixed;
+	left: 50%;
+	top: 200px;
+	width: 540px;
+	margin-left: -220px;
+    }
+#cut-1 {
+	position: center;
+	top: -355px;
+	left: 305px;
+}
+h1 {
+    color: rgb(94, 17, 17);
+    font-size: 40px;
+    margin-left: 650px;
+    position: fixed;
+}
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin-left: 1205px;
+    position: fixed;
+    top: 80px;
+}
